@@ -1,0 +1,4 @@
+baseURL = 'https://hugonew.github.io/'
+languageCode = 'en-us'
+theme = "LoveIt"
+title = 'My New Hugo Site'
